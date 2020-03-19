@@ -1,4 +1,4 @@
-# Linked_List_Project
+# Overview of Linked List Project
 It is a single link list project using C-language programming. It contains all the operations that can be performed on a single linked list such as--     
 • Traversal of a linked list.     
 • Searching an element.     
